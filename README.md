@@ -45,4 +45,4 @@ Chaque fichier est commenté. Au dessus de chaque fonction et de chaque déclara
 
 - [`main.py`](./main.py): Il contient le code principal. Il permet de lancer les simulations et de visualiser les résultats.
 
-- [`zipf.py`](./zipf.py): Il contient la définition de la classe `Zipf`. C’est une classe qui définit les attendues de fonctionnement de la distribution Zipf. (NB: cette classe est singleton)
+- [`zipf.py`](./zipf.py): Il contient la définition de la classe `Zipf`. C’est une classe qui définit le fonctionnement de la distribution Zipf et permet de génerer nos nombres aléatoires (NB: cette classe est singleton).
