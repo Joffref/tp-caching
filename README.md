@@ -7,7 +7,8 @@ _Groupe:_ JOFFRE Mathis EONO Mathis
 # Installation
 
 ```
-git clone 
+git clone https://github.com/Joffref/tp-caching.git
+cd tp-caching
 ```
 
 # Usage
